@@ -26,7 +26,7 @@ android {
 dependencies {
   '''
   
-  
+  implementation 'com.github.yoyoyaobin:XmlToJson:1.0'
 }
 
 ```
