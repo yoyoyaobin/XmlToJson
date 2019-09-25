@@ -1,5 +1,5 @@
 # XmlToJson
-快速简便通用的xml转json工具模块
+快速简便通用的xml转json工具模块，使用dom4j(sax解析)+fastjson处理数据
 
 ![image](https://jitpack.io/v/yoyoyaobin/XmlToJson.svg)
 
