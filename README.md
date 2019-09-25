@@ -51,8 +51,8 @@ String jsonStr = XmlParser.Companion.getInstance().xmlToJsonString(xmlString);
 ```
 {
 "a":{
-   name:"张三",
-   #text:"节点内容"
+   "name":"张三",
+   "#text":"节点内容"
   }
 }
 ```
