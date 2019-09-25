@@ -50,7 +50,7 @@ String jsonStr = XmlParser.Companion.getInstance().xmlToJsonString(xmlString);
 转出来的json为
 ```
 {
-a:{
+"a":{
    name:"张三",
    #text:"节点内容"
   }
