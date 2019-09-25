@@ -32,8 +32,10 @@ dependencies {
 ```
 
 ## 使用方式
-kotlin:  
+```
+kotlin:
 var jsonStr = XmlParser.instance.xmlToJsonString(xmlString)
 
 java:
 String jsonStr = XmlParser.Companion.getInstance().xmlToJsonString(xmlString);
+```
