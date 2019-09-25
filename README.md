@@ -1,6 +1,8 @@
 # XmlToJson
 快速简便通用的xml转json工具模块
 
+![image](https://jitpack.io/v/yoyoyaobin/XmlToJson.svg)
+
 ## 配置
 1.在project的build.gradle里配置
 ```
